@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available to download in this [link]()
+My CV is available to download in this [link.]()
