@@ -1,7 +1,8 @@
 ---
 title: "Instructor of Record"
 collection: teaching
-type: "ECON 2106: Principles of Microeconomics"
+type: "Geaorgia Institute of Technology
+ECON 2106: Principles of Microeconomics"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Fall 2023"
 date: 
