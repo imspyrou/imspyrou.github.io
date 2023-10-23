@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: 
+type:  
 "Georgia Institute of Technology
 •	ECON 2106: Principles of Microeconomics (Fall 2020 to Summer 2021)
 •	ECON 4180: Game Theory Economics (Fall 2019)
