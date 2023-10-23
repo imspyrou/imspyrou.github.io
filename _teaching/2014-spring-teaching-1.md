@@ -17,7 +17,6 @@ date:
 location: "City, Country"
 ---
 
-
 Georgia Institute of Technology 
 ====== 
 
