@@ -12,7 +12,7 @@ I am a Ph.D. Candidate in the [School of Economics at the Georgia Institute of T
 
 I am an applied microeconomist and data analyst working on issues at the intersection of development and agricultural economics. My research focuses on the impact of natural disasters on well-being and on alleviation strategies including sustainable agricultural practices. My research spans food insecurity drivers, while applying machine learning techniques to predict food security. 
 
-Other than economics, I enjoy jogging, paiting, and swimming.
+Other than economics, I enjoy jogging, painting, and swimming.
 
 
 Education
