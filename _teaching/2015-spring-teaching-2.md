@@ -4,7 +4,7 @@ collection: teaching
 type: "ECON 2106: Principles of Microeconomics"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Fall 2023"
-date: "2023" 
+date: 1-1-2023
 location: "City, Country"
 ---
 
