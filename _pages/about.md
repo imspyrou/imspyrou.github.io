@@ -19,7 +19,7 @@ Education
 ======
 - Ph.D. Economics, Georgia Institute of Technology, (Anticipated graduation 05/2024) 
 - M.S. Economics, Georgia Institute of Technology, 2023
-- M.A. Statistics Applied Mathematics, City University of New York, 2017
+- M.A. Statistics & Applied Mathematics, City University of New York, 2017
 - B.S. Mathematics, Aristotle University, 2014
 - B.S. &  M.S. Plant Protection Science, Aristotle University, 2008
 
