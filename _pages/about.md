@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in the [School of Economics at the Georgia Institute of Technology](https://econ.gatech.edu/). I received my MA in Statistics and Applied Mathematics from the City University of New York in 2017. My graduate studies include an MA in Environmental and Plant Pathology Sciences.
+I am a Ph.D. Candidate in the [School of Economics at the Georgia Institute of Technology](https://econ.gatech.edu/). Prior to this, I earned a Master's degree in Statistics and Applied Mathematics from the City University of New York in 2017. My graduate studies include also a Master in Environmental and Plant Pathology Sciences.
 
-I am an applied microeconomist and data analyst working on issues at the intersection of development and agricultural economics. My research focuses on the impact of natural disasters on well-being and on alleviation strategies including sustainable agricultural practices. My research spans food insecurity drivers, while applying machine learning techniques to predict food security. 
+I am an applied microeconomist and data analyst working on issues at the intersection of development and agricultural economics. My research focuses on the impact of natural disasters on well-being and on alleviation strategies including sustainable agricultural practices. I am interested in food insecurity drivers working on applications of machine learning techniques in food security prediction. 
 
 Other than economics, I enjoy jogging, painting, and swimming.
 
