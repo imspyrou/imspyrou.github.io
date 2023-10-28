@@ -3,8 +3,8 @@ title: "Instructor of Record"
 collection: teaching
 type: "ECON 2106: Principles of Microeconomics"
 permalink: /teaching/class01
-venue: "Fall 2023"
-# date: 2023-08-21
+venue: "Fall"
+date: 2023-12-14
 location: "Atlanta, GA"
 ---
 Georgia Institute of Technology
