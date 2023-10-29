@@ -3,7 +3,8 @@ title: "Instructor of Record"
 collection: teaching
 type: "Georgia Institute of Technology, ECON 2106: Principles of Microeconomics"
 permalink: /teaching/class01
-venue: "Fall 2023"
+venue: "Fall Semester"
+date: 2023-08-21
 location: "Atlanta, GA"
 ---
 
@@ -12,4 +13,3 @@ make choices and interact with one another regarding the allocation and utilizat
 Students apply economics concepts to analyze phenomena in everyday life, analyze decision making processes in microeconomics, and apply an ‘economics lens’ to observations 
 of events and choices in the world and better understand these actions and choices. 
 
-====
