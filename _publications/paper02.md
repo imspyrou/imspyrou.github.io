@@ -3,7 +3,7 @@ title: "Impact of Drought on Children's Educational Outcomes (with Dr. Shatakshe
 collection: publications
 permalink: /publication/paper02
 excerpt: ''
-date: 2009-10-01
+date: 2022-12-01
 venue: '(Under Review)'
 paperurl: 'https://dx.doi.org/10.2139/ssrn.4547663'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
