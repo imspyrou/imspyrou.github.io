@@ -3,8 +3,8 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Georgia Institute of Technology"
 permalink: /teaching/class02
-venue:  "2019-2021"
-date: 2019-08-01
+venue:  "2019"
+date: 2021-08-01
 location: "Atlanta, GA"
 ---
 * Fall 2020 to Summer 2021, ECON 2106: Principles of Microeconomics (Prof. Tibor Besedes, Prof. Elena Antoniadou)
