@@ -3,8 +3,8 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Georgia Institute of Technology"
 permalink: /teaching/class02
-venue: # "Fall 2023"
-date: # 1-1-2023
+venue:  "2019-2021"
+date:  2021-01-01
 location: "Atlanta, GA"
 ---
 Georgia Institute of Technology 
