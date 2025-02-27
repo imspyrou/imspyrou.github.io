@@ -12,7 +12,7 @@ I am a Visiting Assistant Professor of Data Analytics in the [Campbell School of
 
 I am a data analyst and applied economist working on issues at the intersection of machine learning, sustainable development and agricultural economics. My research focuses on the impact of natural disasters on well-being and on alleviation strategies including sustainable agricultural practices. I am interested in food insecurity drivers working on applications of machine learning techniques in food security prediction. 
 
-Other than economics, I enjoy jogging, painting, and swimming.
+Other than data analytics, I enjoy jogging, painting, and swimming.
 
 
 Education
