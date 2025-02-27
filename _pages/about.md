@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Assistant Professor of Data Analytics in the [Campbell School of Business at Berry College]([https://www.berry.edu/academics/fs/ispyrou]). Prior to this, I earned a Ph.D. in Applied Economics in 2024, a Master's degree in Economics from Georgia Institute of Technology and a Master's degree in Statistics and Applied Mathematics from the City University of New York in 2017. My graduate studies include also a Master in Environmental and Plant Pathology Sciences.
+I am a Visiting Assistant Professor of Data Analytics in the [Campbell School of Business at Berry College]([https://www.berry.edu/academics/fs/ispyrou]). Prior to this, I earned a Ph.D. in Applied Economics in 2024 and a Master's degree in Economics from Georgia Institute of Technology and a Master's degree in Statistics and Applied Mathematics from the City University of New York in 2017. My graduate studies include also a Master in Environmental and Plant Pathology Sciences.
 
 I am a data analyst and applied economist working on issues at the intersection of machine learning, sustainable development and agricultural economics. My research focuses on the impact of natural disasters on well-being and on alleviation strategies including sustainable agricultural practices. I am interested in food insecurity drivers working on applications of machine learning techniques in food security prediction. 
 
