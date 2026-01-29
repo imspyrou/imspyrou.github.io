@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper01
 excerpt: 'Under Review'
 date: 2025
-venue: '(Under Review)'
+venue: '(Under Review)' 
 # paperurl:  'https://scholar.google.com/citations?user=bOruOfIAAAAJ&hl=en'
 # citation:  'Ioanna Maria Spyrou, You. (2025). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
