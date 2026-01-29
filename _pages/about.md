@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Visiting Assistant Professor of Data Analytics in the [Campbell School of Business at Berry College]([https://www.berry.edu/academics/fs/ispyrou]). Prior to this, I earned a Ph.D. in Applied Economics in 2024, a Master's degree in Economics from the Georgia Institute of Technology, and a Master's degree in Statistics and Applied Mathematics from the City University of New York in 2017. My graduate studies also include a Master's degree in Environmental and Plant Pathology Sciences.
+I am a Visiting Assistant Professor of Data Analytics in the [Campbell School of Business at Berry College]([https://www.berry.edu/academics/fs/ispyrou]). 
 
-I am a data analyst and applied economist working on issues at the intersection of machine learning, sustainable development and agricultural economics. My research focuses on the impact of natural disasters on well-being and on alleviation strategies including sustainable agricultural practices. I am interested in food insecurity drivers working on applications of machine learning techniques in food security prediction. 
+I am a data scientist, statistician, and applied economist working at the intersection of artificial intelligence, machine learning, and data analytics. 
 
-Other than data analytics, I enjoy jogging, painting, and swimming.
+My research spans cognitive science, EEG-based and computational modeling. I study human learning and decision-making under uncertainty using computational cognitive models and EEG data, and I develop machine learning methods to analyze neural and behavioral signals. 
+
+In parallel, I am interested in AI applications for sustainable development and agriculture. My applied work focuses on food insecurity forecasting, the impacts of natural disasters on well-being, and the use of AI and sensor data to support resilient and sustainable agricultural systems.
+
+Prior to joining Berry College, I earned a Ph.D. in Applied Economics in 2024, a Master's degree in Economics from the Georgia Institute of Technology, and a Master's degree in Statistics and Applied Mathematics from the City University of New York in 2017. My graduate studies also include a Master's degree in Environmental and Plant Pathology Sciences.
+
+Outside of work, I enjoy jogging, painting, and swimming.
 
 
 Education
