@@ -3,7 +3,7 @@ title: "Forecasting Food Insecurity Using Maachine Learning."
 collection: publications
 permalink: /publication/paper07
 excerpt: 'Working Paper'
-date: 2026
+date: 2026 
 venue: '(Working Paper)' 
 # paperurl:  'https://scholar.google.com/citations?user=bOruOfIAAAAJ&hl=en'
 # citation:  'Ioanna Maria Spyrou, Shatakshee Dhongde (2025). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
