@@ -2,7 +2,7 @@
 title: "Sustainable Agricultural Practices (SAPs) as determinants for food security"
 collection: publications
 permalink: /publication/paper01
-excerpt: 'In progress'
+excerpt: 'Under Review'
 date: 2025
 venue: '(Under Review)'
 # paperurl:  'https://scholar.google.com/citations?user=bOruOfIAAAAJ&hl=en'
