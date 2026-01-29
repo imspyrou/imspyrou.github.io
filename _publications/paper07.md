@@ -1,1 +1,11 @@
-
+---
+title: "Forecasting Food Insecurity Using Maachine Learning."
+collection: publications
+permalink: /publication/paper07
+excerpt: 'Working Paper'
+date: 2025
+venue: '(Working Paper)' 
+# paperurl:  'https://scholar.google.com/citations?user=bOruOfIAAAAJ&hl=en'
+# citation:  'Ioanna Maria Spyrou, You. (2025). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+This paper explores machine learning to predict food insecurity, offering insight into the factors, time and location of food insecurity events, using verifiable data in four African countries for the period 2020 to 2023. Food insecurity imposes heavy human costs that are likely to increase in light of worsening climatic drivers and growing populations. In this context, models that can predict food insecurity levels of a district based on the suggested features opens important opportunities to mitigate and avoid the worst outcomes. We use a function approximation approach, to explore how accurately we can estimate food insecurity given information on economic, environmental, climate and conflict data. We analyze data of almost 4 years including monthly assessments on district-level food insecurity outcomes together with monthly covariates that capture known drivers of food insecurity, and we explore how machine learning can help to address these challenges using a unique dataset including monthly economic, environmental, climate and conflict data. The predictions are generated using Multinomial Logistic Regression as our baseline model, and we further use Random Forest and Extreme Gradient Boosting (XGBoost) models to evaluate and identify the most important features in predicting food insecurity. We find that information on food price index, vegetation and climate data can be used to predict food insecurity, and these outcomes can be used to detect future crisis outbreaks and may help increase lead time for action. This research contributes to using machine learning for future food crisis in the particular context of including climate, agricultural, food price index and conflict data, supporting early interventions, and it may help to develop more effective policies to ensure food security. We further include COVID-19 cases per country since our study is conducted during the pandemic, which slightly improved models’ accuracy, and identified COVID-19 cases as important feature to predict food insecurity for both models. 
